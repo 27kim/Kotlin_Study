@@ -29,4 +29,18 @@
         android:layout_height="wrap_content"
         android:text="현재시간"
         />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="11"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Async"
+        />
 </LinearLayout>
